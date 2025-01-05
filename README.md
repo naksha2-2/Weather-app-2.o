@@ -1,5 +1,4 @@
 
-Here's a template for a README file for a weather app project:
 
 Weather App
 Overview
