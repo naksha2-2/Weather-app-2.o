@@ -1,3 +1,4 @@
+import Movie from "../assets/components/Movie";
 
 function Home() {
     const movies = [
