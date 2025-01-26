@@ -14,4 +14,6 @@ return(
 );
 
 }
+export default App;
+
 
