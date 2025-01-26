@@ -15,4 +15,3 @@ return(
 
 }
 
-export default App;
