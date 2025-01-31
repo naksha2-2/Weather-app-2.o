@@ -1,5 +1,7 @@
 import Movie from "../assets/components/Movie";
 
+import Movie from "../assets/components/Movie";
+
 function Home() {
     const movies = [
      {id:1, title:"John-Wich", release_date:"2020"},
