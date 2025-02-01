@@ -1,4 +1,7 @@
-
+function Movie({movie}){  
+    
+    function onFavoriteClick(){
+        alert("CLICKED")
     }
     return(
         <div className= "moviecard">
